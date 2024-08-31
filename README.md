@@ -10,11 +10,11 @@
 <hr><br>
 <h2> 🔍 About Me </h2>
 Hello there, I am Alaric, here are some things that I like to do:<br>
-💻 I like to make websites using either `Next` or `React` <br> 
-🎨 I Style my websites with `Tailwind` or `Sass` <br>
-🗃️ I use `Postgres` for backend <br>
-🍃 Sometimes I use either `Spring` or `Django` <br>
-🌐 I mostly host on `Vercel`, sometimes on `Supabase`
+💻 I like to make websites using either Next or React <br> 
+🎨 I Style my websites with Tailwind or Sass <br>
+🗃️ I use Postgres for backend <br>
+🍃 Sometimes I use either Spring or Django <br>
+🌐 I mostly host on Vercel, sometimes on Supabase
 
 <br><br>
 
