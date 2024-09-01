@@ -8,12 +8,12 @@
     <br>
     <p align="center">Hello there, I am Alaric S. Espiña, a Software Devloper based in the Philippines and currently a BS Computer Engineering Student in Mapua University - Intramuros. I like to make different kinds of applications be it a web app or a simple desktop app to a fully fledged website with Deep Learning Integration. 
     </p>
-    <p align="center">If you want to know more about me you can formally reach me through the following links:
+    <p align="center">If you want to know more about me you can formally reach me through the following links:<br>
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" height=25/>
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height=25/>
     <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" height=25/>
     </p>
-    <p align="center">Or if you just want to message me (informally) for other things, you can reach me on:
+    <p align="center">Or if you just want to message me (informally) for other things, you can reach me on:<br>
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" height=25/>
     </p>
     <br>
