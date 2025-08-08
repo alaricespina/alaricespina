@@ -4,7 +4,13 @@
 <h1 align="center"> Alaric S. Espiña </h1>
 <div align="center">
     <p>☁️ Full Stack Web Developer
-    🤖 Deep Learning (AI) Enjoyer <br>
+    🤖 Deep Learning (AI) Enjoyer 
+    ⚛ Developer 
+    <br>
+    </p>
+    <hr/>
+    <p>The one and only <strong>Master Hatdog</strong></p>
+    <hr/>
     <br>
     <p align="center">Hello there, I am Alaric S. Espiña, a Software Devloper based in the Philippines and currently a BS Computer Engineering Student in Mapua University - Intramuros. I like to make different kinds of applications be it a web app or a simple desktop app to a fully fledged website with Deep Learning Integration. 
     </p>
