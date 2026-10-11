@@ -1,45 +1,27 @@
-
-
 <hr>
 <h1 align="center"> Alaric S. Espiña </h1>
 <div align="center">
-    <p>☁️ Full Stack Web Developer
-    🤖 Deep Learning (AI) Enjoyer 
-    ⚛ Developer 
+    <p>Senior Software Engineer
     <br>
     </p>
-    <hr/>
-    <p>The one and only <strong>Master Hatdog</strong></p>
+    <p>Fuck <strong>AI</strong>. Embrace Human Coding</p>
     <hr/>
     <br>
-    <p align="center">Hello there, I am Alaric S. Espiña, a Software Devloper based in the Philippines and currently a BS Computer Engineering Student in Mapua University - Intramuros. I like to make different kinds of applications be it a web app or a simple desktop app to a fully fledged website with Deep Learning Integration. 
+    <p align="center">I build complete end to end solutions, and I am tried with all of this AI Hype promising everything and delivering <strong>nothing</strong>.   
     </p>
-    <p align="center">If you want to know more about me you can formally reach me through the following links:<br>
+    <p align="center">If you want to formally message me:<br><br>
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" height=25/>
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height=25/>
     <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" height=25/>
     </p>
-    <p align="center">Or if you just want to message me (informally) for other things, you can reach me on:<br>
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" height=25/>
-    </p>
-    <br>
-    <p align="center"><i>You can find the different frameworks that I use and other skills that I am proficient on below this text</i></p>
 </div>
-<br><br>
 
-
-<h2 align="center"> ☁️ Full Stack Web Dev Frameworks </h2>
-<p align="center">Here are the different frameworks (and services) that I use to make websites, they vary from either school works or personal projects.</p>
+<h2 align="center"> ☁️ Tech Used </h2>
+<p align="center">Here is a long list of what I use</p>
 <div id="header" align="center">
-    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height=25/>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height=25/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height=25/>
-    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height=25/>
-    <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" height=25/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" height=25/>
-    <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" height=25/>
-    <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" height=25/>
+   
 </div>
+
 <br>
 <br>
 <h2 align="center"> 🤖 Deep Learning Toolkit </h2>
@@ -50,6 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width=50/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width=50/>          
 </div> 
+
 <br>
 <br>
 <h2 align="center"> 🏹 Programming Languages </h2>
@@ -85,11 +68,5 @@
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" height=25/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" height=25/>
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" height=25/>
-    
-    
-</div>
 
 <hr>
-
-
-
